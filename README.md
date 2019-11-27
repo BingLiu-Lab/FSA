@@ -4,9 +4,9 @@
 
 ## Getting Started
 
-- FSA is currently developed with Python 2.X, requiring Python packages **scipy**, **nilearn**, **sklearn**, **joblib**. 
+- FSA is currently developed based on Python 2.X, requiring Python packages **scipy**, **nilearn**, **sklearn**, **joblib**. 
 
-- Please download the essential materials (the mask of striatum et al) from [figshare](https://figshare.com/articles/FSA_score/7150628).
+- Please download the essential materials (e.g. the mask of striatum) from [figshare](https://figshare.com/articles/FSA_score/7150628).
 
 - The FSA is currently developed and validated using the resting-state MRI data preprocessed by [BRANT](http://brant.brainnetome.org/en/latest/index.html) using default parameters. Briefly, the raw fMRI image was preprocessed by slice timing, realign, coregister, normalization and denoising. Our model was validated based on the fMRI version after global signal regression (named 'fdGSRwra*' + origin.nii) and fALFF version after normalization (named 'fALFF_z_' + origin.nii). 
 
