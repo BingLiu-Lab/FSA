@@ -12,11 +12,13 @@ A neuroimaging biomarker for striatal dysfunction in schizophrenia
 
 - The FSA is currently developed and validated using the resting-state MRI data preprocessed by a open-source tool [BRANT](http://brant.brainnetome.org/en/latest/index.html). Briefly, the raw fMRI image was preprocessed by slice timing, realign, coregister, normalization and denoising. Our model was validated based on the preprocessed fMRI images with global signal regression ('fdGSRwra*') and normalized fALFF images ('fALFF_z_'). 
 
-When using BRANT, please cite: 
-
-BRANT: A Versatile and Extendable Resting-State fMRI Toolkit: https://www.frontiersin.org/articles/10.3389/fninf.2018.00052/full, 2018.
 
 - Once established prerequisites above, personalized FSA score can be easily calculated parallelly following instructions and code in **fsa.ipynb**. 
+
+When using BRANT, please cite: 
+
+* BRANT: A Versatile and Extendable Resting-State fMRI Toolkit: https://www.frontiersin.org/articles/10.3389/fninf.2018.00052/full, 2018.
+
 
 ## Copyright Information
 The materials and code to calculate personalized FSA score is available for noncommercial use. 
