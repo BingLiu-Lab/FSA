@@ -2,7 +2,7 @@
 
 This is a Github repository contains code and instructions for calculating personalized Functional Striatal Abnormalities (FSA) score for individuals with schizophrenia. Details of the method are described in the article:
 
-A neuroimaging biomarker for striatal dysfunction in schizophrenia. 
+A neuroimaging biomarker for striatal dysfunction in schizophrenia. Nat Med (2020). https://doi.org/10.1038/s41591-020-0793-8 
 
 ## Getting Started
 
