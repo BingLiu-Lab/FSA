@@ -20,5 +20,5 @@ When using BRANT, please cite:
 
 
 ## Copyright Information
-The materials and code to calculate personalized FSA score is available for noncommercial use and exclusively for research purpose. For potential commercial use, please contact Bing Liu at bliu@nlpr.ia.ac.cn.
+The materials and code to calculate personalized FSA score is available for noncommercial use and exclusively for research purpose. For potential commercial use, please contact Bing Liu at bing.liu@bnu.edu.cn.
 
